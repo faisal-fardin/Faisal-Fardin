@@ -1,4 +1,8 @@
 
+
+
+<h1 align="center">Hi 👋, I'm Faisal Fardin</h1>
+<h3 align="center">Web designer and Apps Developer</h3>
 I am Faisal If you're looking for a designer to create your unique, stunning, professional, and modern-looking Landing Or Homepage, let me serve you. I am an experienced UI/UX Designer with more than 2 years of experience. I am a specialist in website design, website development, WordPress website design by Elementor, hand-code, or creating a custom WordPress Theme. I am an Expert in Php and Python and dart basic javascript
 
 Conclusion:
@@ -6,9 +10,6 @@ Conclusion:
 Although I specialize in WordPress, Theme-Customization, , so I like to tackle creative challenges.
 If you feel we can work better together, please contact me.
 
-
-<h1 align="center">Hi 👋, I'm Faisal Fardin</h1>
-<h3 align="center">Web designer and Apps Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-fardin&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-fardin" /> </p>
 
